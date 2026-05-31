@@ -32,4 +32,6 @@ git add = Prepares a specific modified file (or all files) to be permanently sav
 
 git commit = Saves a permanent snapshot of your project at a specific point in time.
 
+git push = Uploads your saved local commits to a remote server so other developers can access your updates
+
 
