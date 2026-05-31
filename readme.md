@@ -12,3 +12,5 @@ touch = Instantly creates a new, empty file
 rm = remove = Deletes a file permanently
 
 mv = move = Moves a file to a new location or renames it
+
+cat = Reads the contents of a file and prints it directly into your terminal
