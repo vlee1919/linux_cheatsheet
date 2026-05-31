@@ -14,3 +14,7 @@ rm = remove = Deletes a file permanently
 mv = move = Moves a file to a new location or renames it
 
 cat = Reads the contents of a file and prints it directly into your terminal
+
+pwd = print work directory = Shows the exact, full path of the folder you are currently located in
+
+
