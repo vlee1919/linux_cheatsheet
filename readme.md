@@ -18,3 +18,8 @@ cat = Reads the contents of a file and prints it directly into your terminal
 pwd = print work directory = Shows the exact, full path of the folder you are currently located in
 
 
+GIT Commands
+
+git init - Sets up a brand new, empty Git repository in your current directory
+
+
