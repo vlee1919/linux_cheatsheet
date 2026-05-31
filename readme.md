@@ -22,4 +22,6 @@ GIT Commands
 
 git init - Sets up a brand new, empty Git repository in your current directory
 
+git clone = Downloads an exact copy of an existing repository from a remote server (like GitHub) to your local machine.
+
 
