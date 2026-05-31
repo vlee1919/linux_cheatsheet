@@ -26,4 +26,6 @@ git clone = Downloads an exact copy of an existing repository from a remote serv
 
 git status = Shows you the current state of your project, including which files have been modified or are ready to be saved.
 
+git branch = Lists all your isolated, independent lines of development.
+
 
