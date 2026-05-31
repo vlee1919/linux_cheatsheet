@@ -34,4 +34,4 @@ git commit = Saves a permanent snapshot of your project at a specific point in t
 
 git push = Uploads your saved local commits to a remote server so other developers can access your updates
 
-
+git pull = Downloads the latest commits from a remote repository and automatically merges them into your current local branch. 
