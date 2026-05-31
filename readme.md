@@ -10,3 +10,5 @@ mkdir = make directory = Creates a brand new folder in your current location.
 touch = Instantly creates a new, empty file
 
 rm = remove = Deletes a file permanently
+
+mv = move = Moves a file to a new location or renames it
