@@ -8,3 +8,5 @@ cd = change directory = Moves your terminal from one folder to another
 mkdir = make directory = Creates a brand new folder in your current location.
 
 touch = Instantly creates a new, empty file
+
+rm = remove = Deletes a file permanently
