@@ -29,3 +29,7 @@ git status = Shows you the current state of your project, including which files 
 git branch = Lists all your isolated, independent lines of development.
 
 git add = Prepares a specific modified file (or all files) to be permanently saved in the next commit
+
+git commit = Saves a permanent snapshot of your project at a specific point in time.
+
+
